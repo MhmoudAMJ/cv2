@@ -1,0 +1,119 @@
+body {
+margin: 0;
+text-align: center;
+font-family: 'Oswald', sans-serif;
+background-color: #f1f4df;
+
+}
+
+h1 {
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 5rem;
+
+}
+.contact-me{
+  margin-bottom: 50px;
+}
+.toph2{
+  margin-bottom: 40px;
+}
+
+h2{
+  color: lightblue;
+  font-family: 'B612 Mono', monospace;
+  font-size: 1.6rem;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'B612 Mono', monospace;
+  width: auto;
+}
+
+hr{
+  border-style: dotted none none none;
+  width: 25%;
+  border-width: 6px;
+  border-color: lightgrey;
+  margin: 60px auto 60px auto;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.top-container{
+  background-color: #fcfdd8;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 150px;
+}
+
+.bottom-container{
+  background-color: lightgreen;
+  padding: 25px 0 25px 0;
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+}
+
+.skill{
+  width: 25%;
+  border-radius: 100%;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 350px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 90px;
+}
+
+.btn {
+  background: #39d472;
+  background-image: -webkit-linear-gradient(top, #39d472, #9ad6bc);
+  background-image: -moz-linear-gradient(top, #39d472, #9ad6bc);
+  background-image: -ms-linear-gradient(top, #39d472, #9ad6bc);
+  background-image: -o-linear-gradient(top, #39d472, #9ad6bc);
+  background-image: linear-gradient(to bottom, #39d472, #9ad6bc);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'B612 Mono', monospace;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #72e8a1;
+  background-image: -webkit-linear-gradient(top, #72e8a1, #aae3c7);
+  background-image: -moz-linear-gradient(top, #72e8a1, #aae3c7);
+  background-image: -ms-linear-gradient(top, #72e8a1, #aae3c7);
+  background-image: -o-linear-gradient(top, #72e8a1, #aae3c7);
+  background-image: linear-gradient(to bottom, #72e8a1, #aae3c7);
+  text-decoration: none;
+}
+
+a{
+  color: #58b368;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #212121;
+}
+
+.footer{
+  margin: 50px auto 10px auto ;
+}
